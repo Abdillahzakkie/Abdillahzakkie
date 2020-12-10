@@ -16,5 +16,5 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/abdullah-zakarriya-ba58961aa/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://ethanoltoken.com/">MillyCodes.com</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://ethanoltoken.com/">EthanolToken.com</a>
 - 🐦 Sharing tech tweets on <a href="https://twitter.com/Dev_DragonLord/">Twitter</a>
