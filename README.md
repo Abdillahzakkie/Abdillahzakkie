@@ -5,7 +5,6 @@
 
 - 🏢 I'm currently working as a freelancer with EthanolToken
 - ⚙️ I use daily: `.sol`, `.js`, `.go`, `.html`, `.css`,  `.png`, `.json`
-- 💅 Active community member of: **Openzepepelin community**
 - 🌱 Learning more about and studying: **Ethereum Blockchain, DeFi, Open Source, React, CS Algorithms**
 - 💬 Ping me about: **DeFi development**, **smart contract design**, **Fullstack web development**, **social media**, **diversity & inclusion**
 - 📫 Reach me asap: <a href="https://t.me/DragonTrybe">Telegram</a> or Zakariyyaopeyemi@gmail.com
