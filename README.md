@@ -1,7 +1,7 @@
 ### Hi, I'm Abdullah 👋
 ---
 
-####  I'm Abdullah, a software engineer with experience in Blockchain development, JavaScript, Python, GoLang, React, MongoDB and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
+####  I'm Abdullah, a software engineer with experience in Blockchain development, JavaScript, Python, GoLang, React, MongoDB and more. I've been working professionally for about 2 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
 
 - 🏢 I'm currently working as a freelancer with EthanolToken
 - ⚙️ I use daily: `.sol`, `.js`, `.go`, `.html`, `.css`,  `.png`, `.json`
