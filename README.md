@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.sol`, `.js`, `.go`, `.html`, `.css`,  `.png`, `.json`
 - 🌱 Learning more about and studying: **Ethereum Blockchain, DeFi, Open Source, React, CS Algorithms**
 - 💬 Ping me about: **DeFi development**, **smart contract design**, **Fullstack web development**, **social media**, **diversity & inclusion**
-- 📫 Reach me asap: <a href="https://t.me/dragontrybe">Telegram</a> or Zakariyyaopeyemi@gmail.com
+- 📫 Reach me asap: <a href="https://t.me/abdillahzakkie">Telegram</a> or Zakariyyaopeyemi@gmail.com
 - 💜 Interests: Blockchain technology, DeFi optimistic, cryptocurrency enthusiast, foodie
 - 😄 Passionate about accessibility and committed to a decentralized web
 
