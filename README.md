@@ -13,5 +13,5 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/abdullah-zakarriya-ba58961aa/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://amuse.finance/">Amuse Finance</a>
+- 🌐 Improving my personal DeFi project @ <a href="https://amuse.finance/">Amuse Finance</a>
 - 🐦 Sharing tech tweets on <a href="https://twitter.com/Dev_DragonLord/">Twitter</a>
