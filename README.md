@@ -3,7 +3,7 @@
 
 ####  I'm Abdullah, a software engineer with experience in Blockchain development, JavaScript, Python, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
 
-- 🏢 I'm currently working as a lead blockchain engineer for <a href="https://amuse.finance/" target="_blank">Amuse Finance</a>, <a href="https://vprove.io/"  target="_blank">VProve</a>, <a href="https://unireview.io/" target="_blank">Unireview</a>
+- 🏢 I'm currently working as a blockchain engineer at <a href="https://zoopr.io/" target="_blank">ZoopR</a>
 - ⚙️ I use daily: `.sol`, `.vy`, `.js`, `.go`, `.c`, `.html`, `.css`, `.php`, `.png`, `.json`
 - 🌱 Learning more about and studying: **Ethereum Blockchain, DeFi, Open Source, React, CS Algorithms**
 - 💬 Ping me about: **DeFi development**, **smart contract design**, **Fullstack web development**, **social media**, **diversity & inclusion**
