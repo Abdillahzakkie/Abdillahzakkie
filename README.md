@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Blockchain developer
 ---------------------------------
 
-I'm Abdullah, a software developer with experience in Blockchain development, JavaScript, Python, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
+I'm Abdullah, a software developer with experience in Blockchain development, JavaScript, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Amuse Finance](http://amuse.finance)
