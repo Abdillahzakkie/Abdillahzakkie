@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Blockchain developer
 ---------------------------------
 
-I'm Abdullah, a software developer with experience in Blockchain development, JavaScript, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
+I'm Abdullah, a software developer with experience in Blockchain development, JavaScript, Python, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Amuse Finance](http://amuse.finance)
@@ -14,7 +14,8 @@ I'm Abdullah, a software developer with experience in Blockchain development, Ja
 
 <a href="https://www.twitter.com/dragonlord0x0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dragonlord0x0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a><a href="https://www.github.com/abdillahzakkie" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/abdillahzakkie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -75,7 +76,8 @@ src="https://img.shields.io/twitter/follow/dragonlord0x0?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-<a href="https://github.com/abdillahzakkie/zoopr-smart-contracts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=zoopr-smart-contracts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/abdillahzakkie/silkroad" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=silkroad&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/abdillahzakkie/amuse-finance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=amuse-finance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/abdillahzakkie/zoopr-smart-contracts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=zoopr-smart-contracts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abdillahzakkie/amuse-finance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=amuse-finance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/abdillahzakkie/silkroad" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=silkroad&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
