@@ -8,7 +8,7 @@ I'm Abdullah, a software developer with experience in Blockchain development, Ja
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Amuse Finance](http://amuse.finance)
-* ✉️  You can contact me at [zakariyyaopeyemi@gmail.com](mailto:zakariyyaopeyemi@gmail.com)
+* ✉️  You can contact me at [zakariyyaopeyemi@gmail.com](mailto:zakariyyaopeyemi@pm.me)
 * 🧠  I'm learning Svelte and System design
 * 🤝  I'm open to collaborating on Blockchain and DeFi projects
 
