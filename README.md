@@ -55,6 +55,13 @@ const abdullah = {
 </details>
 
 <details>
+<summary><b>🤖 AI Engineering</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="ai engineering" />
+<p><sub>LLM application development · OpenAI &amp; Anthropic APIs · RAG · agents &amp; tool-use · prompt engineering · vector databases</sub></p>
+</details>
+
+<details>
 <summary><b>⛓️ Blockchain &amp; Web3</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="web3" />
@@ -123,7 +130,6 @@ const abdullah = {
 - Architecting and shipping multi-app monorepos end to end — web, mobile, dashboard, and API from one codebase.
 - **Squady** — a workforce / employee self-service platform (scheduling, timesheets, time-off, rota).
 - **Humanz** — an HR platform for people, employment, and contracts.
-- **Adverta** — a cross-platform advertising product with an on-chain contracts layer.
 - AI product work (**Taskwise**), plus NestJS · Next.js · React Native · MongoDB / Postgres · Docker.
 
 </details>
@@ -152,19 +158,6 @@ const abdullah = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdillahzakkie/Abdillahzakkie/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Abdillahzakkie/Abdillahzakkie/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-<br/>
-
-## 📌 Featured projects
-
-<div align="center">
-
-<a href="https://github.com/Abdillahzakkie/authentications"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=authentications&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="authentications" /></a>
-<a href="https://github.com/Abdillahzakkie/grpc-node-typescript"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=grpc-node-typescript&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="grpc-node-typescript" /></a>
-<a href="https://github.com/Abdillahzakkie/mogadget"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=mogadget&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="mogadget" /></a>
-<a href="https://github.com/Abdillahzakkie/solidity-assessment"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=solidity-assessment&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="solidity-assessment" /></a>
 
 </div>
 
