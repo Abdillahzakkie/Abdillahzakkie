@@ -146,8 +146,6 @@ const abdullah = {
 
 <img src="https://streak-stats.demolab.com/?user=Abdillahzakkie&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abdillahzakkie&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 </div>
 
 ### 🐍 Watch my contributions get eaten
