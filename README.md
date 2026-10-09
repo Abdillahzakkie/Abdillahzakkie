@@ -24,7 +24,7 @@
 const abdullah = {
   role:      "Software & Blockchain Engineer",
   based:     "Lagos, Nigeria 🌍",
-  building:  ["workforce platforms", "DeFi protocols", "developer tooling"],
+  building:  ["Web3 / NFT platforms", "workforce software", "DeFi protocols"],
   stack:     ["TypeScript", "Node.js", "Go", "Solidity", "React / Next.js"],
   philosophy:"the best code is the code you never had to write",
   openTo:    "Blockchain, DeFi & high-leverage backend work",
@@ -128,6 +128,7 @@ const abdullah = {
 <br/>
 
 - Architecting and shipping multi-app monorepos end to end — web, mobile, dashboard, and API from one codebase.
+- **GKOI** @ **Exedos** — built the full Web3 NFT platform end to end: royalty-enforced ERC-721 (ERC721-C) smart contracts, a suite of Node.js / Express microservices (`server`, `authentications`, `whitelist`, `gallery`) on MongoDB with on-chain integration via `ethers.js`, and the Next.js client and admin consoles — plus the shared auth, caching, audit, rate-limiting, and geo-IP layer.
 - **Squady** — a workforce / employee self-service platform (scheduling, timesheets, time-off, rota).
 - **Humanz** — an HR platform for people, employment, and contracts.
 - AI product work (**Taskwise**), plus NestJS · Next.js · React Native · MongoDB / Postgres · Docker.
