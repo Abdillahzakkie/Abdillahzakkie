@@ -1,79 +1,179 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Zakariyya
-==========================================================================================================================================
+<!-- ╔═══════════════════════════════════════════════╗ -->
+<!-- ║  Abdullah Zakariyya — GitHub profile README     ║ -->
+<!-- ╚═══════════════════════════════════════════════╝ -->
 
-Software and Blockchain developer
----------------------------------
+<div align="center">
 
-I'm Abdullah, a software developer with experience in Blockchain development, JavaScript, Python, GoLang, React, SQL, MongoDB and more. I've been working professionally for about 4 years but got my start journey around 2016. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a decentralized web that works for everyone.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e4a5c&height=200&section=header&text=Abdullah%20Zakariyya&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38" alt="Abdullah Zakariyya" />
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Amuse Finance](http://amuse.finance)
-* ✉️  You can contact me at [zakariyyaopeyemi@pm.me](mailto:zakariyyaopeyemi@pm.me)
-* 🧠  I'm learning Svelte and System design
-* 🤝  I'm open to collaborating on Blockchain and DeFi projects
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=620&lines=Software+%26+Blockchain+Engineer;Shipping+full-stack+products+end+to+end;Node.js+%7C+TypeScript+%7C+Go+%7C+Solidity;~10+years+writing+%28and+deleting%29+code" alt="roles" />
 
-<a href="https://www.twitter.com/dragonlord0x0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dragonlord0x0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/abdillahzakkie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abdillahzakkie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a>
-<a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
-<a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
+<p>
+  <a href="https://amuzed.org"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdillahzakkie"><img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Dev_DragonLord"><img src="https://img.shields.io/badge/X-0891B2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:zakariyyaopeyemi@pm.me"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abdillahzakkie&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
+</div>
 
-### Socials
+## 💫 About me
 
-<p align="left"> <a href="https://www.github.com/abdillahzakkie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@dragonlord.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdillahzakkie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/dragonlord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dragonlord0x0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+```ts
+const abdullah = {
+  role:      "Software & Blockchain Engineer",
+  based:     "Lagos, Nigeria 🌍",
+  building:  ["workforce platforms", "DeFi protocols", "developer tooling"],
+  stack:     ["TypeScript", "Node.js", "Go", "Solidity", "React / Next.js"],
+  philosophy:"the best code is the code you never had to write",
+  openTo:    "Blockchain, DeFi & high-leverage backend work",
+};
+```
 
-### Badges
+- 🔭 I architect and ship **full-stack product monorepos** end to end — web, mobile, API, and on-chain.
+- ⚡ A decade across **Web3 / DeFi smart contracts**, **Go systems**, and **TypeScript product engineering**.
+- 🏢 Founder of **[Amuse Finance](https://amuzed.org)**; I build decentralized finance and workforce software.
+- 🧠 Deepening distributed systems and large-scale architecture.
+- 🤝 Open to collaborating on Blockchain and DeFi projects.
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/abdillahzakkie"><img src="https://github-readme-stats.vercel.app/api?username=abdillahzakkie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdillahzakkie's GitHub stats" /></a>
+## 🛠️ Tech stack · <sub>click to expand</sub>
 
-<a href="http://www.github.com/abdillahzakkie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdillahzakkie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,solidity,bash&theme=dark" alt="languages" />
+</details>
 
-<a href="http://www.github.com/abdillahzakkie"><img src="https://activity-graph.herokuapp.com/graph?username=abdillahzakkie&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<details>
+<summary><b>⚙️ Backend &amp; APIs</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,redis&theme=dark" alt="backend" />
+<p><sub>REST · gRPC · GraphQL · microservices · JWT / OAuth · event-driven services</sub></p>
+</details>
 
-<b>Top Repositories</b>
+<details>
+<summary><b>⛓️ Blockchain &amp; Web3</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="web3" />
+<p><sub>Solidity · Hardhat · Foundry · ethers.js · web3.js · OpenZeppelin · Chainlink · The Graph · IPFS · EVM (Ethereum, Polygon, Arbitrum, Avalanche)</sub></p>
+</details>
 
-<div width="100%" align="center"><a href="https://github.com/abdillahzakkie/zoopr-smart-contracts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=zoopr-smart-contracts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abdillahzakkie/amuse-finance-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdillahzakkie&repo=amuse-finance-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<details>
+<summary><b>🎨 Frontend &amp; Mobile</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma&theme=dark" alt="frontend" />
+<p><sub>React · Next.js · React Native / Expo · TailwindCSS · Sass · Material UI</sub></p>
+</details>
+
+<details>
+<summary><b>🗄️ Data &amp; Infra</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,linux&theme=dark" alt="data and infra" />
+<p><sub>MongoDB · PostgreSQL · Redis · Docker · CI/CD (GitHub Actions) · Linux</sub></p>
+</details>
+
+<br/>
+
+## 🗓️ A decade of building · <sub>click any era</sub>
+
+<details>
+<summary><b>2016 – 2019 · Foundations</b></summary>
+<br/>
+
+- Started writing code: JavaScript, web fundamentals, and data structures &amp; algorithms.
+- Built the habits that stuck — reading source, deleting more than I added, and shipping small.
+
+</details>
+
+<details>
+<summary><b>2020 – 2021 · Into Web3</b></summary>
+<br/>
+
+- First on-chain work: gas-optimization and transaction-scheduling tooling (**GasGains**, **Gasify**, **Ethanol**).
+- Learned the EVM from the ground up with Solidity, `ethers.js`, and `web3.js`.
+
+</details>
+
+<details open>
+<summary><b>2021 – 2023 · DeFi &amp; smart contracts</b></summary>
+<br/>
+
+- Founded **Amuse Finance** — a decentralized gas-credit protocol.
+- Shipped **EthanolX**, **Zoopr** (on-chain reviews), NFT generators, and automated trading / flashloan bots.
+- Smart-contract security, Hardhat / Truffle, OpenZeppelin, Chainlink oracles, and The Graph.
+
+</details>
+
+<details>
+<summary><b>2022 – 2024 · Systems in Go</b></summary>
+<br/>
+
+- Backend and systems engineering in **Go**: e-commerce services, web apps, and Ethereum keystore tooling.
+- Typed **gRPC** microservices and a **blockchain-agnostic authentication service** in TypeScript.
+
+</details>
+
+<details open>
+<summary><b>2024 – Present · Product engineering at scale</b></summary>
+<br/>
+
+- Architecting and shipping multi-app monorepos end to end — web, mobile, dashboard, and API from one codebase.
+- **Squady** — a workforce / employee self-service platform (scheduling, timesheets, time-off, rota).
+- **Humanz** — an HR platform for people, employment, and contracts.
+- **Adverta** — a cross-platform advertising product with an on-chain contracts layer.
+- AI product work (**Taskwise**), plus NestJS · Next.js · React Native · MongoDB / Postgres · Docker.
+
+</details>
+
+<br/>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdillahzakkie&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdillahzakkie&layout=compact&hide_border=true&langs_count=8&title_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Abdillahzakkie&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdillahzakkie&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+### 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdillahzakkie/Abdillahzakkie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdillahzakkie/Abdillahzakkie/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abdillahzakkie/Abdillahzakkie/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## 📌 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/Abdillahzakkie/authentications"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=authentications&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="authentications" /></a>
+<a href="https://github.com/Abdillahzakkie/grpc-node-typescript"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=grpc-node-typescript&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="grpc-node-typescript" /></a>
+<a href="https://github.com/Abdillahzakkie/mogadget"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=mogadget&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="mogadget" /></a>
+<a href="https://github.com/Abdillahzakkie/solidity-assessment"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillahzakkie&repo=solidity-assessment&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=1c1917" alt="solidity-assessment" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<em>The code you write makes you a programmer. The code you delete makes you a good one.<br/>The code you don't have to write makes you a great one.</em>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4a5c,100:0891b2&height=100&section=footer" alt="" />
+
+</div>
